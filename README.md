@@ -12,7 +12,7 @@
 
 Hay que resolver los siguientes problemas:
 
-1. Primero de todo, necesitaría ayuda resolviendo 2 _fatal errors_, cuando resuelvas uno, te saldrá el siguiente. (10 puntos)
+1. Primero de todo, necesitaría ayuda resolviendo 2 _fatal errors_, cuando resuelvas uno, te saldrá el siguiente. (10 puntos) 
 2. He creado dos ficheros llamados _blog.css_ y _fonts.css_ en el directorio _inc/css_ pero no sé cómo incorporarlos al tema. Además, quiero que tengan preferencia respecto al ya incorporado css de _bootstrap_ (10 puntos)
 3. Me gustaría poner el título del blog como título de la página, para que cuando alguien lo visite, el explorador ponga el título (ver imagen 1) (10 puntos)
 4. Quiero incorporar un menú de navegación en el footer tal y como está hecho en el header, pero no sé cómo hacerlo (20 puntos)
